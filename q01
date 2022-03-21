@@ -1,0 +1,10 @@
+$ grgate status set your-org/your-repository-name \
+    --commit 93431f42d5a5abc2bb6703fc723b162a9d2f20c3 \
+    --name "e2e happyflow" \
+    --status completed \
+    --state success
+$ grgate status set your-org/your-repository-name \
+    --commit 93431f42d5a5abc2bb6703fc723b162a9d2f20c3 \
+    --name "e2e happyflow" \
+    --status completed \
+    --state success
